@@ -1,0 +1,22 @@
+/*  */
+
+/* Glass Card Utility (ORANGE THEME) */
+.glass {
+  background: var(--glass-bg);
+  border: 1px solid var(--glass-border);
+  backdrop-filter: blur(12px);
+  border-radius: 1rem;
+}
+
+/* 🔥 Orange Glow */
+.glow-orange {
+  background: var(--glow-orange);
+  filter: blur(120px);
+  border-radius: 9999px;
+}
+
+.glow-orange-soft {
+  background: var(--glow-orange-soft);
+  filter: blur(120px);
+  border-radius: 9999px;
+}

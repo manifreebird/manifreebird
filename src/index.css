@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+
+
+
+/* ================= LENIS FIX ================= */
+
+html.lenis {
+  height: auto;
+}
+
+.lenis.lenis-smooth {
+  scroll-behavior: auto;
+}
+
+.lenis.lenis-smooth body {
+  overflow: hidden;
+}
+
+.lenis.lenis-stopped {
+  overflow: hidden;
+}

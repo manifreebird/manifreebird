@@ -1,0 +1,21 @@
+:root {
+  /* Backgrounds */
+  --bg-primary: #000000;
+  --bg-secondary: #0a0a0a;
+
+  /* Text */
+  --text-primary: #ffffff;
+  --text-secondary: rgba(255, 255, 255, 0.65);
+
+  /* 🔥 Brand Color (Orange) */
+  --brand-primary: #ff6a00;
+  --brand-secondary: #ff8c1a;
+
+  /* Glass */
+  --glass-bg: rgba(255, 106, 0, 0.05);
+  --glass-border: rgba(255, 106, 0, 0.2);
+
+  /* Glow Effects */
+  --glow-orange: radial-gradient(circle, rgba(255, 106, 0, 0.4), transparent 70%);
+  --glow-orange-soft: radial-gradient(circle, rgba(255, 140, 26, 0.25), transparent 70%);
+}
