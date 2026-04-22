@@ -1,0 +1,23 @@
+User-agent: *
+Allow: /
+
+# Allow important AI/SEO crawlers
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+# Block unnecessary or sensitive paths (if you add later)
+Disallow: /api/
+Disallow: /admin/
+Disallow: /private/
+
+# Sitemap (add when available)
+Sitemap: https://manifreebird.com/sitemap.xml
