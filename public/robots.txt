@@ -21,3 +21,4 @@ Disallow: /private/
 
 # Sitemap (add when available)
 Sitemap: https://manifreebird.com/sitemap.xml
+
