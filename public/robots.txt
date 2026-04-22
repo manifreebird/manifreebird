@@ -1,7 +1,12 @@
 User-agent: *
 Allow: /
+Disallow: /api/
+Disallow: /admin/
+Disallow: /private/
 
-# Allow important AI/SEO crawlers
+Sitemap: https://manifreebird.com/sitemap.xml
+
+# AI Crawlers (explicit but optional)
 User-agent: GPTBot
 Allow: /
 
@@ -13,12 +18,3 @@ Allow: /
 
 User-agent: PerplexityBot
 Allow: /
-
-# Block unnecessary or sensitive paths (if you add later)
-Disallow: /api/
-Disallow: /admin/
-Disallow: /private/
-
-# Sitemap (add when available)
-Sitemap: https://manifreebird.com/sitemap.xml
-
