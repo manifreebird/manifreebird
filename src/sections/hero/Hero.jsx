@@ -103,7 +103,8 @@ export default function Hero() {
 
           {/* HEADLINE */}
           <h1 className="text-3xl md:text-5xl font-bold tracking-tight leading-tight">
-            AI Trainer who taught 1000+ engineers
+            {/* AI Trainer who taught 1000+ engineers */}
+            AI trainer trained 1000+ students in Hyderabad
             <br />
             <span className="text-white">to build real AI systems.</span>
           </h1>
