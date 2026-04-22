@@ -3,22 +3,14 @@
 
   <url>
     <loc>https://manifreebird.com/</loc>
+    <lastmod>2026-04-23</lastmod>
     <priority>1.0</priority>
   </url>
 
   <url>
-    <loc>https://manifreebird.com/#about</loc>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://manifreebird.com/#workshops</loc>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://manifreebird.com/#contact</loc>
-    <priority>0.7</priority>
+    <loc>https://manifreebird.com/llm.txt</loc>
+    <lastmod>2026-04-23</lastmod>
+    <priority>0.3</priority>
   </url>
 
 </urlset>

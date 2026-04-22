@@ -31,6 +31,9 @@ export default function Footer() {
             <Linkedin className="w-4 h-4" /> LinkedIn
           </a>
 
+<a href="/llm.txt">AI Data Profile</a>
+
+
           <a
             href="#"
             className="flex items-center gap-1 hover:text-orange-400 transition"
