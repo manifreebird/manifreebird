@@ -3,7 +3,7 @@ import Footer from "@/components/layout/Footer";
 
 import Hero from "@/sections/hero/Hero";
 import Stats from "@/sections/stats/Stats";
-import TrustBar from "@/sections/trust-bar/TrustBar";
+// import TrustBar from "@/sections/trust-bar/TrustBar";
 import EventGallery from "@/sections/gallery/EventGallery";
 import Testimonials from "@/sections/testimonials/Testimonials";
 import About from "@/sections/about/About";
@@ -20,7 +20,7 @@ export default function Home() {
       <main className="pt-20">
         <Hero />
         <Stats />
-        <TrustBar />
+        {/* <TrustBar /> */}
         <EventGallery />
         <Testimonials />
         <About />
